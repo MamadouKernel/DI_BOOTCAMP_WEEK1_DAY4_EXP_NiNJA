@@ -1,0 +1,6 @@
+.banner-image{
+    background-image: url("laptop.jpg");
+    background-repeat: no-repeat;
+background-size: cover;
+height: 600px;
+}
